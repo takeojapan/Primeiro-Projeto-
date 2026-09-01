@@ -6,6 +6,7 @@ Boa Tarde!!
 Documentação
 
 No nosso primeiro projeto, pegamos uma empresa de E-commerce com um problema especifico que podia ser resolvido com um software, o nome da empresa é Syncro, focada na distribuição de veículos para outras empresas de entrega.
+
 *O problema:
 
 O problema central da empresa que foi solucionado pelo nosso grupo foi o formato de entrega mal desenvolvido onde de 15 a 20% das entregas não chegavam no destinatário por diversos motivos como a ausência do cliente, 
