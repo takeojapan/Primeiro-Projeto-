@@ -175,4 +175,4 @@ As tecnologias específicas podem ser definidas durante a etapa de desenvolvimen
 
 Equipe
 
-Takeo · Julio · Lucas DH
+Takeo · Julio G · Lucas DH
